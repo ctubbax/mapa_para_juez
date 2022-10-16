@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Corte 1_modified.tif</name>
+	<description>Source Image: G:/My Drive/Base de datos central - Jockey Club/Asunto Colegio Loretto/Mapa del predio/Cortes/Corte 1_modified.tif</description>
+	<Icon>
+		<href>C:/Users/carlo/AppData/LocalLow/Google/GoogleEarth/import/Corte 1_modified_scaled.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-16.53855929486841</north>
+		<south>-16.54652626720485</south>
+		<east>-68.07607719054731</east>
+		<west>-68.08025330177202</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
